@@ -6,7 +6,7 @@ This project performs sentiment analysis on Amazon Fine Food Reviews using VADER
 
 ---
 
-## 🚀 Overview
+## Overview
 
 The goal of this project is to analyze customer sentiment from textual reviews and compare the performance of two different NLP techniques:
 - **VADER** (fast, rule-based)
@@ -14,14 +14,14 @@ The goal of this project is to analyze customer sentiment from textual reviews a
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - Amazon Fine Food Reviews dataset
 - Contains user reviews, ratings, and metadata
 
 ---
 
-## ⚙️ Features
+## Features
 
 - Data cleaning and preprocessing
 - Handling missing values
@@ -33,7 +33,7 @@ The goal of this project is to analyze customer sentiment from textual reviews a
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Pandas, NumPy
@@ -43,7 +43,7 @@ The goal of this project is to analyze customer sentiment from textual reviews a
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - VADER is fast and works well on large datasets
 - RoBERTa captures deeper context but is computationally expensive
@@ -52,7 +52,7 @@ The goal of this project is to analyze customer sentiment from textual reviews a
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Install dependencies:
    ```bash
